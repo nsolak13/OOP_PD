@@ -1,1 +1,1 @@
-# Patika.Dev platformunda yapılan çalışmaları içerir.
+# Patika.Dev | Works that i did in kodluyoruz&patika platforms.
